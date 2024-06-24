@@ -1,0 +1,6 @@
+.venv
+*.npy
+__pycache__
+scans
+calibrations/**/*png
+.DS_Store
